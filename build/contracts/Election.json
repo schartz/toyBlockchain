@@ -2393,12 +2393,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x3cc8c9120cc1A1A5a04B914C4309F2289C5eD38a",
-      "transactionHash": "0x95ef797052756b4b47f3cea16d35b5175b7cc5df21eacbb35e1a8beb2b3a3298"
+      "address": "0xC5bEB9d647218Ef9e38DddF8e4B7efbb4A4017cD",
+      "transactionHash": "0x8f5ff57b87edecc967b49a9e4d8a6797d605c08dbb61efeb3d740f098cd242a4"
     }
   },
   "schemaVersion": "3.0.1",
-  "updatedAt": "2019-01-26T10:57:34.875Z",
+  "updatedAt": "2019-01-26T11:06:06.471Z",
   "devdoc": {
     "methods": {}
   },
