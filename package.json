@@ -1,9 +1,21 @@
 {
-  "name": "votingApp",
+  "name": "pet-shop",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "truffle": "^5.0.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
   }
 }
